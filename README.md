@@ -13,11 +13,14 @@ This project is a fully responsive landing page built using:
 ##  Features
 
 -  Navigation Bar
--  Hero Section with CTA
--  Features Section with icons/text
--  Footer
+-  clear and modern design
 -  Smooth scrolling effect
--  Mobile-first responsive design
+
+---
+
+## Live Demo
+
+[Github Page Links](https://github.com/22P31A0417/codveda-task1-Responsive-Landing-Page)
 
 ---
 
@@ -37,6 +40,7 @@ The page adapts beautifully to:
 -  Mobile devices
 
 ---
+
 ## Folder Structure
 
 Task1-ResponsiveLandingPage/
